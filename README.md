@@ -1,5 +1,5 @@
 # Jogo-PI-2
-Corrida no Tempo 🚗⏳
+Corrida no Tempo 
 
 Objetivo do Jogo:
 O objetivo do jogo é completar corridas em diferentes épocas da história, coletando artefatos e aprendendo curiosidades de cada período. O jogador precisa terminar cada fase dentro do tempo limite e pode evoluir seu carro com tecnologias correspondentes a cada era.
